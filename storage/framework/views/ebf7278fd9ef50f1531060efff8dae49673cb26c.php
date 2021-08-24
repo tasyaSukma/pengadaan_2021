@@ -1,0 +1,1 @@
+ini view laravel di root folder view<?php /**PATH /Applications/XAMPP/xamppfiles/htdocs/BKPSDM/pengadaan/resources/views/home.blade.php ENDPATH**/ ?>
